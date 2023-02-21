@@ -1,0 +1,317 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Howdy",
+        "How do you do?",
+        "How are you?",
+        "Is anyone there?",
+        "Hello",
+        "Good day",
+        "Can you assist me?",
+        "I need assistance",
+        "I need help",
+        "Greetings"
+      ],
+      "responses": [
+        "Hey :-) I'm listening to your request.",
+        "Hi there! Thank you for choosing Seven Star Consultants Limited. How can I assist you?",
+        "Hey! I'm here to help answer any questions or concerns you may have as a representative of Seven Star Consultants Limited. What can I help with?",
+        "Hello, thanks for visiting Seven Star Consultants. What can I do for you?",
+        "Hi there, you've reached Steven. The AI chatbot for Seven Star Consultants Limited. I'm sure you're in the right place. How can I be of assistance?",
+        "Hi there. I'm Steven. How can I help?",
+        "Greetings! I'm here on behalf of Seven Star Consultants Limited. What can I do for you today?",
+        "Hello! Welcome to Seven Star Consultants. How can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "hours",
+      "patterns": [
+        "What are your business hours?",
+        "What hours are you open?",
+        "When are you available?",
+        "What is your availability?"
+      ],
+      "responses": [
+        "We are open Monday through Friday, from 8:30am to 4:30pm.",
+        "Our business hours are Monday through Friday, 8:30am to 4:30pm.",
+        "We're available to answer your questions and provide assistance Monday through Friday, 9am to 5pm.",
+        "Our team is available during business hours, Monday through Friday, to provide assistance and support."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!", "I appreciate"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "services",
+      "patterns": [
+        "Which services do you offer?",
+        "What do you do?",
+        "What areas of expertise does Seven Star Consultants Limited specialize in?",
+        "What are your services?",
+        "How can your services benefit my business?",
+        "What makes your services different from other consulting firms?",
+        "Can you give me examples of successful projects you've completed?",
+        "What consulting services does Seven Star Consultants Limited provide?",
+        "Can you tell me more about your consulting capabilities?",
+        "What kind of consulting do you specialize in?",
+        "What kind of projects have you worked on?",
+        "What is your experience in this field?",
+        "What makes Seven Star Consultants Limited's consulting services unique?",
+        "How can Seven Star Consultants Limited help with my consulting needs?",
+        "What kind of solutions does Seven Star Consultants Limited provide for its clients?",
+        "What are your activities?"
+      ],
+      "responses": [
+        "We offer a wide variety of services in Development, ICT, Communications, Project Management and Research ",
+        "We offer a wide range of services in Development, ICT, Communications, Project Management, and Research. Our goal is to provide top-notch solutions to meet our clients' needs.",
+        "At Seven Star Consultants Limited, we specialize in Development, ICT, Communications, Project Management, and Research. We are dedicated to providing cutting-edge services to enhance our clients' operations.",
+        "Our services include Development, ICT, Communications, Project Management, and Research, all aimed at driving growth and success for our clients.",
+        "We are proud to offer comprehensive services in Development, ICT, Communications, Project Management, and Research, tailored to meet the specific needs of our clients.",
+        "At Seven Star Consultants Limited, we have extensive experience in Development, ICT, Communications, Project Management, and Research, and we're here to help our clients reach their goals.",
+        "We offer a full suite of services in Development, ICT, Communications, Project Management, and Research, designed to help our clients stay ahead of the curve.",
+        "Whether it's Development, ICT, Communications, Project Management, or Research, we have the expertise and knowledge to deliver top-quality services to our clients.",
+        "Our services in Development, ICT, Communications, Project Management, and Research are aimed at providing our clients with the solutions they need to succeed.",
+        "At Seven Star Consultants Limited, we understand the importance of Development, ICT, Communications, Project Management, and Research, and we're committed to providing the best possible services to our clients.",
+        "We offer a range of solutions in Development, ICT, Communications, Project Management, and Research, designed to support our clients' growth and success."
+      ]
+    },
+    {
+      "tag": "pricing",
+      "patterns": [
+        "How much does your service cost?",
+        "What is the pricing for your services?",
+        "Can you give me a quote?",
+        "What are the fees for your services?",
+        "What is the cost for your services?"
+      ],
+      "responses": [
+        "Our pricing varies depending on the service and the scope of the project. Please contact us to discuss your specific needs and we will be happy to provide a customized quote.",
+        "We offer competitive pricing for our services, and we're happy to provide a quote based on your specific requirements.",
+        "Our pricing is flexible and dependent on the scope of the project. Please contact us to discuss your needs and we'll provide a customized quote.",
+        "Our fees are determined based on the project requirements. Please contact us to discuss your needs and we'll provide a customized quote."
+      ]
+    },
+    {
+      "tag": "project management",
+      "patterns": [
+        "What kind of Project Management services does Seven Star Consultants Limited offer?",
+        "I need Project Management services",
+        "Can you give me more information on Seven Star Consultants Limited's Project Management offerings?",
+        "What expertise does Seven Star Consultants Limited have in Project Management?",
+        "What kind of Project Management support can I expect from Seven Star Consultants Limited?"
+      ],
+      "responses": [
+        "Our project management offerings at Seven Star Consultants Limited encompass the entire project life cycle across a range of sectors.",
+        "At Seven Star, we provide a comprehensive project management solution, ensuring that every aspect of the project is managed to the client's satisfaction.",
+        "Our project management services include all aspects of project planning, delivery, and execution, with a focus on maintaining control of quality, cost, and safety.",
+        "Seven Star Consultants Limited is equipped to manage projects from start to finish, providing a full suite of project management services.",
+        "Our team of project management experts work with clients to ensure a successful project outcome, taking into consideration the management of cost, quality, program, delivery, and safety.",
+        "Whether you need help with Economic Development, Transportation Infrastructure, Agriculture, Renewable Energy, or any other sector, Seven Star is equipped to handle your project management needs.",
+        "Seven Star's project management services cover everything from project inception to completion, making us a one-stop solution for all your project needs.",
+        "Our focus on driving down project costs, while ensuring a detailed understanding of the client's brief, sets Seven Star apart in the project management space.",
+        "At Seven Star, we provide integrated project management services that cater to diverse sectors, helping clients maintain control over the entire project.",
+        "Seven Star's team of experts has a wealth of experience in managing projects across multiple sectors, making us the ideal choice for your project management needs."
+      ]
+    },
+    {
+      "tag": "development",
+      "patterns": [
+        "What services does Seven Star Consultants Limited offer in Development?",
+        "What are your development services?",
+        "What are your development activities?",
+        "What development services do you offer?",
+        "I need development services",
+        "Can you tell me more about the Development services offered by Seven Star Consultants Limited?",
+        "What makes Seven Star Consultants Limited's Development services unique?"
+      ],
+      "responses": [
+        "At Seven Star Consultants Limited, we specialize in providing policy development and formulation services for various organizations, including those in the public and private sector. Our policies are targeted and come in the form of schedules, programs, approaches, and timelines, with a focus on public inclusiveness and consultation.",
+        "We offer a range of development services, including planning and administration, for organizations and governments at both the national and sub-national levels. Our experienced development consultants bring a wealth of knowledge to the table.",
+        "Our development consulting services cover a wide range of areas, including human capacity development, community capacity, impact assessments, healthcare, partnerships for development, and much more.",
+        "We believe in a holistic approach to development and offer a variety of services, including needs assessments, human capital training and systems strengthening, procurement and logistics, and project design and strategic planning.",
+        "At Seven Star Consultants Limited, we are equipped to provide a range of services related to development, including policy development and advocacy, project mapping, and social impact projects.",
+        "Our expertise in development includes offering human capacity development, community capacity building, and impact assessment services, among others.",
+        "We understand the importance of inclusiveness and consultation in the development process, and our services reflect that with a focus on public consultations and engagement.",
+        "We are proud to offer a range of development consulting services, including development planning and administration, qualitative project reviews, human capital training, and much more.",
+        "Our team of experienced development consultants is equipped to provide tailored development solutions, including programme and project management, needs assessments, and social impact projects.",
+        "Seven Star Consultants Limited is committed to providing top-notch development services to organizations, governments, and communities. From policy development to project design and implementation, we have the expertise to help you reach your development goals."
+      ]
+    },
+    {
+      "tag": "ict",
+      "patterns": [
+        "What ICT services does Seven Star Consultants Limited provide?",
+        "What is Seven Star Consultants Limited's experience in the field of ICT?",
+        "What ICT solutions does Seven Star Consultants Limited offer for its clients?",
+        "What kind of ICT support can I receive?",
+        "What are your ICT activities?",
+        "What are your ICT services?",
+        "I need ICT services",
+        "Can you help us with our ICT infrastructure?",
+        "Can you give me an overview of Seven Star Consultants Limited's ICT offerings?"
+      ],
+      "responses": [
+        "At Seven Star Consultants Limited, our ICT services cover a wide range of areas, including software development, IT consulting, system integration, and cyber security.",
+        "Our team of experts has extensive experience in providing ICT solutions for clients in various industries, such as finance, healthcare, and government agencies.",
+        "Whether you need help with software development, IT consulting, or cyber security, our ICT services have got you covered.",
+        "Our ICT services are designed to meet the unique needs of each client, from software development to system integration and cyber security solutions.",
+        "At Seven Star Consultants Limited, we believe in the power of technology to drive success and are dedicated to helping our clients achieve their goals through our comprehensive ICT services.",
+        "Our ICT services include software development, IT consulting, system integration, and cyber security, with a focus on delivering results for our clients.",
+        "We understand the importance of staying ahead in the constantly evolving world of technology, and our ICT services are designed to help our clients do just that.",
+        "At Seven Star Consultants Limited, we are committed to providing top-quality ICT services, including software development, IT consulting, and cyber security solutions.",
+        "Our team of experts is equipped to provide customized ICT solutions to meet the specific needs of each client, with a focus on delivering results.",
+        "Whether you need help with software development, IT consulting, system integration, or cyber security, our ICT services have got you covered. At Seven Star Consultants Limited, we believe in the power of technology to drive success."
+      ]
+    },
+    {
+      "tag": "research",
+      "patterns": [
+        "What kind of Research services does Seven Star Consultants Limited offer?",
+        "Can you give me more information on Seven Star Consultants Limited's Research offerings?",
+        "What expertise does Seven Star Consultants Limited have in Research?",
+        "Do you have experience conducting research?",
+        "Can you tell me more about the research services provided by Seven Star Consultants Limited?",
+        "What research activities are undertaken by Seven Star Consultants Limited?",
+        "What kind of research services do you offer?",
+        "I need Research services",
+        "What makes Seven Star Consultants Limited's research services unique?",
+        "What are your areas of expertise in research?",
+        "What Research solutions does Seven Star Consultants Limited provide for its clients?"
+      ],
+      "responses": [
+        "Seven Star Consultants Limited provides research services across various sectors, including but not limited to Economics, Healthcare, Education, Transportation, Energy, Environmental Sustainability, and Social Innovation.",
+        "Our research services encompass both qualitative and quantitative methodologies, and we offer tailor-made solutions to fit the specific needs of our clients. Whether it's a market research survey, a literature review, or a focus group discussion, we have the expertise and experience to deliver accurate and actionable insights.",
+        "At Seven Star Consultants Limited, we offer comprehensive research services across multiple sectors such as Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability to name a few. Our team of research experts is equipped to handle both qualitative and quantitative research methodologies to fit our clients' specific needs.",
+        "Our research services are designed to provide our clients with accurate and actionable insights into their industry. Whether it's a market research survey, a literature review, or a focus group discussion, we have the expertise and experience to deliver the results you need.",
+        "Seven Star Consultants Limited is a research powerhouse, offering services across multiple sectors including Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability. Our research services cover both qualitative and quantitative methodologies, ensuring that our clients receive the most accurate and actionable insights.",
+        "Our team of research experts at Seven Star Consultants Limited is well-equipped to handle a variety of research needs, including market research surveys, literature reviews, and focus group discussions, across multiple sectors such as Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability.",
+        "Seven Star Consultants Limited provides tailor-made research solutions to fit the specific needs of our clients. Our research services cover multiple sectors, including Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability, and employ both qualitative and quantitative methodologies.",
+        "If you're in need of research services, Seven Star Consultants Limited has got you covered. Our team of experts is equipped to handle a wide range of research needs across various sectors including Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability.",
+        "Our areas of expertise in research include market research, customer research, social research, and policy research. We take a data-driven approach to research and provide our clients with actionable insights that inform decision-making.",
+        "We pride ourselves on the comprehensive research services we offer at Seven Star Consultants Limited. Our team of experts is equipped to handle both qualitative and quantitative research methodologies to deliver accurate and actionable insights across multiple sectors including Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability.",
+        "Seven Star Consultants Limited is a one-stop-shop for all your research needs. Our team of experts is well-equipped to handle a wide range of research services across multiple sectors, including Economics, Healthcare, Education, Transportation, Energy, and Environmental Sustainability. Our research services employ both qualitative and quantitative methodologies to deliver accurate and actionable insights"
+      ]
+    },
+    {
+      "tag": "communication",
+      "patterns": [
+        "What kind of Communications services does Seven Star Consultants Limited offer?",
+        "What is Seven Star Consultants Limited's expertise in Communications?",
+        "What kind of Communications support can I expect from Seven Star Consultants Limited?",
+        "How can you help us improve our communication strategies?",
+        "I need Communication services",
+        "What are your communication activities?",
+        "What are your communication services?"
+
+      ],
+      "responses": [
+        "At Seven Star Consultants Limited, our team of communication experts has a proven track record of executing high-level communication consultancy and providing PR services to a variety of clients, including UNDP, USAID, and various federal and state agencies.",
+        "We specialize in developing and producing a wide range of communication materials, including publications, documentaries, compendiums, and corporate brand and profiles.",
+        "Our communication services cover everything from strategy development to branding, graphics design, and publishing, and we have the expertise to help you effectively reach your target audience.",
+        "Our communication team is equipped to provide tailored solutions to meet the specific needs of each client, with a focus on delivering results through our communication services, including strategy development, social media management, and traditional media publicity.",
+        "Whether you need help with developing a communication strategy or producing a high-quality video, our team of experts has the skills and experience to deliver results for your organization.",
+        "Our communication team is equipped to provide tailored solutions to meet the specific needs of each client, with a focus on delivering results through our communication services, including strategy development, social media management, and traditional media publicity.",
+        "At Seven Star Consultants Limited, we are proud to offer a full range of communication services, including branding, graphics design, and video and documentary production, to help our clients achieve their goals.",
+        "At Seven Star Consultants Limited, our communication team provides a range of high-level services, including strategy development, branding and graphics design, social media management, traditional media publicity, and video and documentary production."
+      ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Tell me about seven star",
+        "what is seven star?",
+        "is seven star a consultant company?",
+        "can you provide more information about your company and its history?"
+      ],
+      "responses": [
+        "Seven Star Consultants Limited, founded in 2015, is dedicated to delivering top-notch products and services to meet client needs. They provide a wide range of services across various sectors, working with international development agencies to promote sustainability and resilience in developing countries. The company prioritizes gender sensitivity and inclusiveness, addressing needs in the environment, education, health and more through technical assistance and capacity building.",
+        "Seven Star Consultants Limited, established in 2015, is committed to excellence and customer satisfaction in the delivery of quality services and products. With a comprehensive range of services across various sectors, the company collaborates with international development agencies to design projects for sustainability and resilience. They focus on issues such as gender sensitivity, environmental sustainability, education, health, and more, improving the effectiveness of global development investments through technical assistance, capacity building, and knowledge management.",
+        "Seven Star Consultants Limited, established in 2015, offers a range of high-quality services and products to ensure customer satisfaction. The company works with partners and international development agencies to create sustainable and resilient projects across a variety of sectors, emphasizing gender sensitivity and inclusiveness. Through technical assistance, capacity building, and knowledge management, they strive to improve the impact of global development investments in areas like the environment, education, health, and more.",
+        "Seven Star Consultants Limited, established in 2015, provides a range of services across different sectors with a commitment to excellence and customer satisfaction. Working with partners and international development agencies, the company designs sustainable and resilient projects, prioritizing gender sensitivity and inclusiveness. Through technical assistance, capacity building, and knowledge management, Seven Star consultants help improve the effectiveness of global development investments, addressing environmental, educational, health, and other needs in developing countries.",
+        "With a commitment to delivering high-quality services and products, Seven Star Consultants Limited, founded in 2015, provides a wide range of services across various sectors. Working with international development agencies, the company focuses on creating sustainable and resilient projects that prioritize gender sensitivity and inclusiveness. They aim to improve global development investments in areas such as the environment, education, health, and more through technical assistance, capacity building, and knowledge management."
+      ]
+    },
+    {
+      "tag": "introduce",
+      "patterns": [
+        "who are you?",
+        "introduce yourself",
+        "what are you?",
+        "what is your name?"
+      ],
+      "responses": [
+        "Hi, I am Steven, a chatbot designed by Seven Star Consultants Limited to answer your questions and provide information about our company. Great to make your acquaintance!",
+        "Greetings! I am Steven, an AI-powered chatbot from Seven Star Consultants Limited. I am here to assist you with basic information about our company. It's a pleasure to meet you.",
+        "Hello, I am Steven, a chatbot from Seven Star Consultants Limited. I am here to help you learn about our company and answer any questions you may have. Nice to meet you!",
+        "My name is Steven and I am an AI chatbot created by Seven Star Consultants Limited. I am here to provide you with information about our company and assist you in any way I can. It's a pleasure to meet you!",
+        "Hi there! I am Steven, a chatbot developed by Seven Star Consultants Limited. My purpose is to give you information about our company and help you with any queries you may have. Nice to make your acquaintance!"
+      ]
+    },
+    {
+      "tag": "career",
+      "patterns": [
+      "Do you have any job openings?",
+      "What are the current job opportunities available?",
+      "How can I apply for a job at Seven Star Consultants Limited?",
+      "What is the hiring process like?",
+      "What are the qualifications required for your job openings?",
+      "Do you offer any internships or training programs?"
+      ],
+      "responses": [
+      "We may have job openings available from time to time. You can check our website or contact us directly for current job opportunities.",
+      "Our current job opportunities are posted on our website. We encourage you to check back regularly for updates.",
+      "To apply for a job, please contact our us"
+      ]
+    },
+    {
+      "tag": "partnerships",
+      "patterns": [
+        "Do you offer partnership opportunities?",
+        "What kind of partnership opportunities do you have?",
+        "How can I partner with Seven Star Consultants Limited?",
+        "Can you tell me more about your partnerships?"
+      ],
+      "responses": [
+        "We are always open to exploring partnership opportunities with individuals and organizations who share our values and vision. Please contact us to discuss further.",
+        "We believe in the power of collaboration, and we're open to exploring partnership opportunities with like-minded individuals and organizations. Please contact us to discuss further.",
+        "At Seven Star Consultants Limited, we value partnership and collaboration. Please contact us to discuss how we can work together to achieve our goals.",
+        "We're committed to fostering meaningful partnerships that support our mission and values. Please contact us to discuss potential opportunities."
+      ]
+    },  
+    {
+      "tag": "contact",
+      "patterns": [
+        "contact", 
+        "how can I schedule an appointment with one of your consultants?", 
+        "can you connect me with a consultant to discuss my project further?", 
+        "how do I make payment for your service?", 
+        "can i speak to someone?", 
+        "email",
+        "How can I provide feedback on your services?",
+        "Do you welcome feedback from your clients?",
+        "Is there a way to rate your services?",
+        "Can I leave a review for your services?",
+        "How can I share my experience with your services?", 
+        "phone number"
+      ],
+      "responses": [
+        "You can reach us through mail at info@sevenstar.ng or call us using this number: +2349077666497"
+      ]
+    }
+  ]
+}
